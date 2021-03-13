@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1615596864 source:c:\users\gabriel oliveira\desktop\linguagemc\trabalhoed1-1a-parte2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	"functions.h"
+
+1615596249 c:\users\gabriel oliveira\desktop\linguagemc\trabalhoed1-1a-parte2\functions.h
+
+1615597341 source:c:\users\gabriel oliveira\desktop\linguagemc\trabalhoed1-1a-parte2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	"functions.h"
+
